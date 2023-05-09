@@ -1,0 +1,28 @@
+Sets of possibly isomorphic graphs:
+
+CrefBenchmark1.grl
+[0, 2]
+[1, 3]
+
+CrefBenchmark2.grl
+[0, 2, 4] discrete
+[1, 3] discrete
+
+CrefBenchmark3.grl
+[0, 2, 3] discrete
+[1, 4] discrete
+
+CrefBenchmark4.grl
+[0, 1] discrete
+[2, 3] discrete
+
+CrefBenchmark5.grl
+[0, 9]
+[1, 6, 7]
+[2, 3, 4]
+[5, 8]
+
+CrefBenchmark6.grl
+[0, 1]
+[2, 3, 4]
+

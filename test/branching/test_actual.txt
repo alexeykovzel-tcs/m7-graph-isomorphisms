@@ -1,0 +1,6 @@
+Isomorphic pairs:
+
+cubes6.grl:
+[0, 1] 96
+[2, 3] 46080
+
